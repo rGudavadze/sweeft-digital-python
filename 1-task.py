@@ -9,3 +9,4 @@ def palindrome(string):
 
 
 print(palindrome('radar'))
+
